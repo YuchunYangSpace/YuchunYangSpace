@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YuchunYang
-- 👀 I’m interested in Front-end developer and User experience engineer.
-- 🌱 I like knitting, painting, cycling.
+- 👀 I’m a User experience engineer.
+- 🌱 I like Knitting, Muay Thai and Cycling.
 - 📫 How to reach me yuchun.yang@outlook.com
 
 <!---
